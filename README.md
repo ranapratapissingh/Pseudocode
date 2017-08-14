@@ -1,0 +1,2 @@
+# Pseudocode
+. Assume that you have a file with a list of sides of a polygon (example: [1,7,5,2], [2,5,2,7,9], [18, 18, 35], etc.). We only have information about the length of the sides. We do not have data about the angles that the sides make with each other. Write a program to classify them as triangles, squares and rectangles. All remaining entries that do not meet the definition of the three shapes can be classified as “others”. The union of all the results should amount to all of the entires in the dataset.
