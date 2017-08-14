@@ -1,0 +1,29 @@
+Initialize count to zero
+
+Initialise sum to zero
+
+Input the list of sides of a polygon [1,7,5,2] , [1, 3, 6] etc
+
+for times the polygons entered 
+
+          if the count of polygon[i]   == 3 
+
+return triangle and increment sum = + 0
+ 
+if the count of polygon[i]   == 4
+
+if all elements in polyon are equal
+
+	return square and increment sum = + 0
+
+else 
+ 	return triangle and increment sum = + 0
+
+else if the count of polygon[i] >  4
+
+	return others and increment sum = + 0
+
+end
+
+if sum == total size of input list in data set
+return true              
